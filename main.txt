@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello from Branch A
-=======
 Hello from Branch B
->>>>>>> origin/branchB
